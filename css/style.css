@@ -5,3 +5,8 @@ html {
 *, *:after, *:before {
     box-sizing: inherit;
 }
+
+.page {
+    background: #DFE0DA;
+;
+}
